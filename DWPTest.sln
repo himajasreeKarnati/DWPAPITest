@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DwpApiDemoProject", "DwpApiDemoProject\DwpApiDemoProject.csproj", "{7B75FF76-C79E-4BDD-B9C9-486FB1E4D93C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dwp_testApi.Test", "Dwp_testApi.Test\Dwp_testApi.Test.csproj", "{591DB657-1FCB-49E0-9919-5FA515EF7F95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{352268DC-3C3A-4C0E-8F01-D0893B10EFCB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B75FF76-C79E-4BDD-B9C9-486FB1E4D93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B75FF76-C79E-4BDD-B9C9-486FB1E4D93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B75FF76-C79E-4BDD-B9C9-486FB1E4D93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B75FF76-C79E-4BDD-B9C9-486FB1E4D93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591DB657-1FCB-49E0-9919-5FA515EF7F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591DB657-1FCB-49E0-9919-5FA515EF7F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591DB657-1FCB-49E0-9919-5FA515EF7F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591DB657-1FCB-49E0-9919-5FA515EF7F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCB781FF-BE31-4E11-A9D5-0305692C3583}
+	EndGlobalSection
+EndGlobal
